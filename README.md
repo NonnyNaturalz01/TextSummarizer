@@ -1,2 +1,2 @@
 # TextSummarizer
-In peogress
+In progress
